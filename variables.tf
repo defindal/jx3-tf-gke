@@ -123,5 +123,6 @@ variable "apex_domain_gcp_project" {
 variable "apex_domain_integration_enabled" {
   description = "Add recordsets from a subdomain to a parent / apex domain"
   type        = bool
-  default     = true
+  default     = false
 }
+
