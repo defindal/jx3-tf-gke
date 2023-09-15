@@ -2,7 +2,7 @@
 // Required Variables
 // ----------------------------------------------------------------------------
 variable "gcp_project" {
-  description = "The name of the GCP project to use"
+  description = "trial"
   type        = string
 }
 
